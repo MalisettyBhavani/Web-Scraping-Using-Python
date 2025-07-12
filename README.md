@@ -110,14 +110,14 @@ python project.py
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The script scrapes:
-- Book name
-- Current price
-- Original price
-- Ratings
-- Number of reviews
+This script is designed to scrape product listings from Flipkart and extract key attributes related to books. Upon execution, it performs the following tasks:
 
-The data is saved in an Excel spreadsheet under the "Books" sheet.
+- Retrieves the **book title** using semantic CSS selectors
+- Captures the **current selling price** and any **original discounted price** if available
+- Gathers the **user rating score** and the **total number of reviews**
+- Writes the extracted data in tabular format into a preformatted Excel workbook
+
+The final output is saved in an Excel spreadsheet (`Flipkart_Books.xlsx`) under the `Books` sheet. This structured format enables easier integration with analytics tools and data pipelines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
