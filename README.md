@@ -1,5 +1,6 @@
 <!-- Improved compatibility of back to top link -->
 <a id="readme-top"></a>
+<div align="center">
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -7,6 +8,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
