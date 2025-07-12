@@ -74,11 +74,11 @@ This project serves as a foundational tool for anyone working on **data engineer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+## 🛠️ Built With
 
-* [Python](https://www.python.org/)
-* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
-* [OpenPyXL](https://openpyxl.readthedocs.io/)
+* [![Python][Python-badge]][Python-url]
+* [![BeautifulSoup][BS-badge]][BS-url]
+* [![OpenPyXL][OpenPyXL-badge]][OpenPyXL-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +174,11 @@ Project Link: [Web Scraping Using Python](https://github.com/MalisettyBhavani/We
 [stars-url]: https://github.com/MalisettyBhavani/Web-Scraping-Using-Python/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MalisettyBhavani/Web-Scraping-Using-Python.svg?style=for-the-badge
 [issues-url]: https://github.com/MalisettyBhavani/Web-Scraping-Using-Python/issues
-[license-shield]: https://img.shields.io/github/license/MalisettyBhavani/Web-Scraping-Using-Python.svg?style=for-the-badge
-[license-url]: https://github.com/MalisettyBhavani/Web-Scraping-Using-Python/blob/main/LICENSE
+[Python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+[BS-badge]: https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge
+[BS-url]: https://pypi.org/project/beautifulsoup4/
+[OpenPyXL-badge]: https://img.shields.io/badge/OpenPyXL-1D6F42?style=for-the-badge
+[OpenPyXL-url]: https://openpyxl.readthedocs.io/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bhavani-malisetty/
