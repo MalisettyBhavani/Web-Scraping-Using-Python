@@ -6,7 +6,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -161,4 +160,4 @@ Project Link: [Web Scraping Using Python](https://github.com/MalisettyBhavani/We
 [license-shield]: https://img.shields.io/github/license/MalisettyBhavani/Web-Scraping-Using-Python.svg?style=for-the-badge
 [license-url]: https://github.com/MalisettyBhavani/Web-Scraping-Using-Python/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/malisettybhavani
+[linkedin-url]: https://www.linkedin.com/in/bhavani-malisetty/
