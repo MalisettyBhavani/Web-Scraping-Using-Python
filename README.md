@@ -45,7 +45,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The  Project
 
 This project is a web scraping utility built with Python to extract structured product data—specifically, **book listings**—from the e-commerce platform **Flipkart**. Leveraging the **BeautifulSoup** library for HTML parsing and **urllib** for making HTTP requests, the script automates the process of collecting publicly available data such as:
 
