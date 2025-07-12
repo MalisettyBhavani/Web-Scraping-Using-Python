@@ -74,7 +74,7 @@ This project serves as a foundational tool for anyone working on **data engineer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🛠️ Built With
+## Built With
 
 * [![Python][Python-badge]][Python-url]
 * [![BeautifulSoup][BS-badge]][BS-url]
