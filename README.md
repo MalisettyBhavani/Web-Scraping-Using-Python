@@ -148,7 +148,7 @@ Contributions are welcome!
 ## Contact
 
 **Bhavani Malisetty**  
-**Email: bmalisetty@unomaha.edu**  
+**Email: bmalisetty@unomaha.edu** 
 [GitHub](https://github.com/MalisettyBhavani)  
 [LinkedIn](https://linkedin.com/in/malisettybhavani)
 
